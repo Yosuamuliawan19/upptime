@@ -4,18 +4,20 @@
     "url": "https://yosua.io",
     "icon": "https://icons.duckduckgo.com/ip3/yosua.io.ico",
     "slug": "yosua-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 527,
-    "timeWeek": 551,
-    "timeMonth": 541,
-    "timeYear": 541,
-    "dailyMinutesDown": {}
+    "time": 759,
+    "timeDay": 1846,
+    "timeWeek": 878,
+    "timeMonth": 759,
+    "timeYear": 759,
+    "dailyMinutesDown": {
+      "2023-06-09": 0
+    }
   },
   {
     "name": "https://v2.backend.yosua.io/node/portfolio/projects",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/v2.backend.yosua.io.ico",
     "slug": "https-v2-backend-yosua-io-node-portfolio-projects",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 333,
     "timeDay": 434,
     "timeWeek": 340,
     "timeMonth": 333,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2023-06-09": 0
+      "2023-06-09": 12
     }
   }
 ]
