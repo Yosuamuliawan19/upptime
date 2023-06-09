@@ -22,7 +22,7 @@
     "url": "https://v2.backend.yosua.io/node/portfolio/projects",
     "icon": "https://icons.duckduckgo.com/ip3/v2.backend.yosua.io.ico",
     "slug": "https-v2-backend-yosua-io-node-portfolio-projects",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 340,
     "timeMonth": 333,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-09": 0
+    }
   }
 ]
